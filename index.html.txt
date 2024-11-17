@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajit Paudel | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ajit Paudel</h1>
+        <p>Aspiring Data Analyst | Business Analytics Specialist</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#education">Education</a>
+            <a href="#experience">Experience</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Aspiring Data Analyst with a strong academic foundation in business analytics and a passion for leveraging data to support strategic decision-making. 
+            Skilled in data collection, cleaning, analysis, and visualization. Experienced in brand exposure and audience trends.
+        </p>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Data Analysis: Python, R, Microsoft Excel, Alteryx</li>
+            <li>Data Visualization: Tableau, R</li>
+            <li>Graphic Design: Adobe Photoshop, Adobe Premiere Pro, DaVinci Resolve, Canva</li>
+            <li>Report Writing & Presentations: Microsoft Word, PowerPoint</li>
+        </ul>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <h3>Master of Business Analytics (Jul 2023 – Jun 2025)</h3>
+        <p>Macquarie University, Current WAM: 80.625</p>
+        <p>Relevant Courses: Managing Technology, Big Data, Data Visualization in Business, Digital Marketing Strategies</p>
+        <h3>Bachelor of Business Administration (Aug 2015 – Jul 2019)</h3>
+        <p>Kathmandu University School of Management</p>
+        <p>Relevant Courses: Strategic Management, Operations Research, Consumer Behavior, Marketing Research</p>
+    </section>
+    <section id="experience">
+        <h2>Work Experience</h2>
+        <h3>Student Ambassador (Nov 2023 - Present)</h3>
+        <p>Macquarie University, Sydney, NSW</p>
+        <ul>
+            <li>Enhanced student experience through effective communication and problem-solving.</li>
+            <li>Maintained high data security standards during the enrollment process.</li>
+        </ul>
+        <h3>Social Media Coordinator / Graphic Designer (Sep 2023 – Mar 2024)</h3>
+        <p>Project Works Design, Tuggerah, NSW</p>
+        <ul>
+            <li>Optimized paid advertising campaigns on Facebook and Google Ads.</li>
+            <li>Curated content to drive engagement across multiple social platforms.</li>
+        </ul>
+        <h3>Brand Strategy / Client Service Executive (Sep 2019 – Aug 2021)</h3>
+        <p>Marching Ants Private Limited, Lalitpur, Nepal</p>
+        <ul>
+            <li>Monitored brand exposure trends to enhance marketing effectiveness.</li>
+            <li>Collaborated with teams to align branding and data-driven strategies.</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:ajitpaudel123@gmail.com">ajitpaudel123@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/ajitpaudel/" target="_blank">linkedin.com/in/ajitpaudel</a></p>
+        <p>Phone: 0422288253</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Ajit Paudel | Portfolio</p>
+    </footer>
+</body>
+</html>
